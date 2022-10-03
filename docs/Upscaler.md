@@ -47,7 +47,7 @@ After an image has been uploaded to the Smart Upscaler and has finished processi
 </p>
 
 * Clicking Enlarge will make your image twice as bigger each time you use it (4x, 8x, 16x, etc.) until it reaches the maximum of **7680 x 5671**.
-* Hovering your mouse cursor over the picture will enable magnifying mode, letting you to look at the details more closely and compare results.
+* Hovering your mouse cursor over the picture will enable magnifying mode, letting you look at the details more closely and compare results.
 * Delete button deletes the image from the dashboard, but it will still be available. More on this in the [Privacy](https://github.com/icons8/aitools-docs/blob/main/docs/Upscaler.md#privacy) section.
 
 Controls for batch uploads are virtually the same, except you can both upscale and download the whole collection at once or do that with individual images within the batch.
