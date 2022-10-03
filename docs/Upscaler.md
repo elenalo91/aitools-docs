@@ -59,16 +59,16 @@ Controls for batch uploads are virtually the same, except you can both upscale a
 ## FAQ and common cases
 
 **Q:** Upscaler doesn't enhance any faces on my photos. <br>
-**A:** This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
+**A:** This can happen if the resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and re-upload them.
 
 **Q:** I have uploaded images, but they've been stuck in the queue for several minutes. <br>
-**A:** Processing heavily depends on the number of images, their initial size and resolution as well as server load. Maybe you got lucky and visited Upscaler during the usercount peak! We recommend waiting, but if you believe they truly got lost, please contact our support.
+**A:** Processing heavily depends on the number of images, their initial size and resolution, as well as server load. Maybe you got lucky and visited Upscaler during the user count peak! We recommend waiting, but if you believe they truly got lost, please contact our support.
 
 **Q:** Is there a limit for batch uploads? <br>
-**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads please consider getting an API subscription.
+**A:** No, but one should keep in mind format and size limitations Upscaler has and also the fact, that the more images you upload, the bigger the performance hit will be. For really large uploads, please consider getting an API subscription.
 
 **Q:** I bought a prepaid pack, but didn't receive my order. <br>
-**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request password change for the account.
+**A:** If you didn't have an Icons8 account while buying the pack, the system will automatically create one with the billing email used during checkout and offer you to set up a password. If you missed that window, then you will have to request a password change for the account.
 
 
 ## Placeholder
