@@ -67,7 +67,7 @@ Controls for batch uploads are virtually the same, except you can both upscale a
   <img width="900" src="/public/Result2.png">
 </p>
 
-## FAQ and common cases
+## FAQ
 
 **Q:** Upscaler doesn't enhance any faces on my photos. <br>
 **A:** This can happen if resolution of the initial photo is already decent. Face enhancement should engage if you make such images smaller and reupload them.
