@@ -49,7 +49,7 @@ Smart Upscaler also supports uploading images from clipboard, to do that just pr
 
 :information_source: Please keep in mind the file requirements: our tool accepts **.png** and **.jpg** up to **5 Mb** in filesize and less than 7680x7680px.
 
-## Actions
+## Upscaling
 
 After an image has been uploaded to the Smart Upscaler, you will see several controls for each image.
 
